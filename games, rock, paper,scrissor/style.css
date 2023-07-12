@@ -1,0 +1,15 @@
+*{
+    box-sizing: content-box;
+}
+
+body { 
+    size: 62.5%;
+    color: black;
+}
+
+.box { 
+    margin-top: 10rem;
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+}
